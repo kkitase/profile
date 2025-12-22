@@ -9,4 +9,4 @@ Google Cloud 担当部長 <br>
 
 ## photo
 Photo
-![photo3](https://github.com/kkitase/profile/blob/master/photo3.jpg)
+![photo3](https://github.com/kkitase/profile/blob/master/photo3.png)
