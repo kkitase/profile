@@ -28,27 +28,33 @@ Kimihiko Kitase leads marketing for Google Cloud at Google Cloud Japan. With a b
 
 ## 写真
 
-<img src="https://raw.githubusercontent.com/kkitase/profile/master/photo3.png" alt="北瀬 公彦 プロフィール写真（背景透過、縦位置）" width="240">
-
-背景が透過した縦位置の写真です。登壇者一覧やスライドへの掲載に適しています。
-[オリジナルをダウンロード](https://raw.githubusercontent.com/kkitase/profile/master/photo3.png)（PNG、500 × 666）
-
 <table>
   <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/kkitase/profile/master/photo1-web.jpg" alt="北瀬 公彦 プロフィール写真 1（横位置）" width="100%"></td>
-    <td width="50%"><img src="https://raw.githubusercontent.com/kkitase/profile/master/photo2-web.jpg" alt="北瀬 公彦 プロフィール写真 2（横位置）" width="100%"></td>
+    <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/kkitase/profile/master/photo3-web.png" alt="北瀬 公彦 プロフィール写真（背景透過、縦位置）" height="200"></td>
+    <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/kkitase/profile/master/photo1-web.jpg" alt="北瀬 公彦 プロフィール写真（横位置、腕組み）" height="200"></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://raw.githubusercontent.com/kkitase/profile/master/photo1.jpg">オリジナルをダウンロード</a><br>JPEG、5359 × 3573</td>
-    <td align="center"><a href="https://raw.githubusercontent.com/kkitase/profile/master/photo2.jpg">オリジナルをダウンロード</a><br>JPEG、5524 × 3683</td>
+    <td align="center"><b>A</b></td>
+    <td align="center"><b>B</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/kkitase/profile/master/photo2-web.jpg" alt="北瀬 公彦 プロフィール写真（横位置、正面）" height="200"></td>
+    <td align="center" valign="bottom"><img src="https://raw.githubusercontent.com/kkitase/profile/master/photo4-web.jpg" alt="北瀬 公彦 プロフィール写真（ワイド）" height="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>C</b></td>
+    <td align="center"><b>D</b></td>
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/kkitase/profile/master/photo4-web.jpg" alt="北瀬 公彦 プロフィール写真 3（ワイド）" width="100%">
+| | 向いている用途 | 形式とサイズ | 原寸データ |
+| :-: | --- | --- | :-: |
+| **A** | 登壇者一覧、スライド、SNS のアイコン | PNG（背景透過）500 × 666 | [ダウンロード](https://raw.githubusercontent.com/kkitase/profile/master/photo3.png) |
+| **B** | 記事の挿絵、印刷物 | JPEG 5359 × 3573 | [ダウンロード](https://raw.githubusercontent.com/kkitase/profile/master/photo1.jpg) |
+| **C** | 記事の挿絵、印刷物 | JPEG 5524 × 3683 | [ダウンロード](https://raw.githubusercontent.com/kkitase/profile/master/photo2.jpg) |
+| **D** | イベントページのヘッダー、バナー | PNG 2820 × 1504 | [ダウンロード](https://raw.githubusercontent.com/kkitase/profile/master/photo4.png) |
 
-[オリジナルをダウンロード](https://raw.githubusercontent.com/kkitase/profile/master/photo4.png)（PNG、2820 × 1504）
-
-印刷物にお使いの場合は、上記のオリジナルをご利用ください。表示用に軽量化した `-web` 付きのファイルも同じリポジトリに置いています。
+上に表示しているのは軽量化した版です。印刷や大きく扱う場合は原寸データをお使いください。
 
 ---
 
