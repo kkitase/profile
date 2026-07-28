@@ -10,6 +10,10 @@
 ## Photo
 ![北瀬 公彦](https://github.com/kkitase/profile/blob/master/photo3.png?raw=true)
 
+![北瀬 公彦](https://github.com/kkitase/profile/blob/master/photo2.png?raw=true)
+
+![北瀬 公彦](https://github.com/kkitase/profile/blob/master/photo1.png?raw=true)
+
 ## Assets & Contact
 - **Google Cloud Logo:** [Download (ZIP)](https://www.googlecloudpresscorner.com/download/logos-cloud.zip)  
   ※AI 形式や EPS 形式のデータが必要な場合は、直接ご連絡ください。
